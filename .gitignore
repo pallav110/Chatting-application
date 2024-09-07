@@ -18,5 +18,4 @@ chatbotvenv/
 .idea/
 
 # Data files
-*.json
 *.csv
